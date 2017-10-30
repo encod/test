@@ -1,0 +1,5 @@
+asssssdaddidfmkdir (Make Directory) 创建目录，如 mkdir blog
+touch 创建文件，如 touch index.html
+cat 查看文件全部内容，如 cat index.html
+rm (remove) 删除文件，如 rm index.html、rm -rf  blog
+rmdir (Remove Directory) 删除文件夹，只能删除空文件夹，不常用 cp (copy) 复制文件，cp index.html ./demo/index.html
